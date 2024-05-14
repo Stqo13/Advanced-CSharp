@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\bin\Debug\netcoreapp3.1\Zad.1.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Sets and Dictionaries Advanced - Lab\Sets_And_Dictionaries-Lab\Zad.1\obj\Debug\netcoreapp3.1\Zad.1.genruntimeconfig.cache

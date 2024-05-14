@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\bin\Debug\net6.0\Defining_Classes-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\bin\Debug\net6.0\Defining_Classes-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\bin\Debug\net6.0\Defining_Classes-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\bin\Debug\net6.0\Defining_Classes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\bin\Debug\net6.0\Defining_Classes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\refint\Defining_Classes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\Defining_Classes-Lab.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\Defining_Classes-Lab\obj\Debug\net6.0\ref\Defining_Classes-Lab.dll

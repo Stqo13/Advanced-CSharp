@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\bin\Debug\netcoreapp3.1\Zad.9.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\Zad.9\obj\Debug\netcoreapp3.1\Zad.9.genruntimeconfig.cache

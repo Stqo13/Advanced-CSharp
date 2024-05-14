@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\bin\Debug\netcoreapp3.1\Zad.6.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.6\obj\Debug\netcoreapp3.1\Zad.6.genruntimeconfig.cache

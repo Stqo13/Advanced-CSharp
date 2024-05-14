@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\bin\Debug\net6.0\Zad.7.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\bin\Debug\net6.0\Zad.7.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\bin\Debug\net6.0\Zad.7.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\bin\Debug\net6.0\Zad.7.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\bin\Debug\net6.0\Zad.7.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\refint\Zad.7.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\Zad.7.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Functional Programming - Exercise\Functional Programming-Exercise\Zad.7\obj\Debug\net6.0\ref\Zad.7.dll

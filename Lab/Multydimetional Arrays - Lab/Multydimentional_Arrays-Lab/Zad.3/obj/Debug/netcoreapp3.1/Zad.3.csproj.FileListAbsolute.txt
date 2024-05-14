@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\bin\Debug\netcoreapp3.1\Zad.3.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Multydimetional Arrays - Lab\Multydimentional_Arrays-Lab\Zad.3\obj\Debug\netcoreapp3.1\Zad.3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\bin\Debug\net6.0\Generics-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\bin\Debug\net6.0\Generics-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\bin\Debug\net6.0\Generics-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\bin\Debug\net6.0\Generics-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\bin\Debug\net6.0\Generics-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\refint\Generics-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\Generics-Exercise.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\Generics-Exercise\obj\Debug\net6.0\ref\Generics-Exercise.dll

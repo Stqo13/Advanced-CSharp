@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\bin\Debug\netcoreapp3.1\Zad.2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Zad.2\obj\Debug\netcoreapp3.1\Zad.2.genruntimeconfig.cache

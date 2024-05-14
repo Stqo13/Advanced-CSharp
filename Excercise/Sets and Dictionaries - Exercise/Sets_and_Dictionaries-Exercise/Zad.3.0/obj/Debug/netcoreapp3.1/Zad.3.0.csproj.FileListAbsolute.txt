@@ -1,0 +1,13 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\bin\Debug\netcoreapp3.1\Zad.3.0.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Sets and Dictionaries - Exercise\Sets_and_Dictionaries-Exercise\Zad.3.0\obj\Debug\netcoreapp3.1\Zad.3.0.genruntimeconfig.cache

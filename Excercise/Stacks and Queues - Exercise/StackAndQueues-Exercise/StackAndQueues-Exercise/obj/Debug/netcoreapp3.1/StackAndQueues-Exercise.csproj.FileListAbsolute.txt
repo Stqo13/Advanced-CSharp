@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\bin\Debug\netcoreapp3.1\StackAndQueues-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Stacks and Queues\StackAndQueues-Exercise\StackAndQueues-Exercise\obj\Debug\netcoreapp3.1\StackAndQueues-Exercise.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Defining Classes - Lab\Defining_Classes-Lab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

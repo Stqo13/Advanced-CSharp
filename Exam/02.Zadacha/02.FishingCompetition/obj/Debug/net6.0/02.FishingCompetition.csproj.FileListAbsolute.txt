@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.exe
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.deps.json
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.runtimeconfig.json
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.dll
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.pdb
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfo.cs
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.dll
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\refint\02.FishingCompetition.dll
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.pdb
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.genruntimeconfig.cache
+C:\Users\Dell\Desktop\02.Zadacha\02.FishingCompetition\obj\Debug\net6.0\ref\02.FishingCompetition.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.exe
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.deps.json
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.runtimeconfig.json
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfo.cs
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.dll
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\refint\01.OffroadChallenge.dll
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.pdb
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.genruntimeconfig.cache
+C:\Users\Dell\Desktop\01.Zadacha\01. OffroadChallenge\01. OffroadChallenge\obj\Debug\net6.0\ref\01.OffroadChallenge.dll

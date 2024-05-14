@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\bin\Debug\net6.0\Defining_Classes-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\bin\Debug\net6.0\Defining_Classes-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\bin\Debug\net6.0\Defining_Classes-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\bin\Debug\net6.0\Defining_Classes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\bin\Debug\net6.0\Defining_Classes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\refint\Defining_Classes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\Defining_Classes-Exercise.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\Defininf_Classes-Exercise\obj\Debug\net6.0\ref\Defining_Classes-Exercise.dll

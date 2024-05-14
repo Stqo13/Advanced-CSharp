@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\bin\Debug\netcoreapp3.1\Stacks_and_Queues.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Stacks and Queues - Lab\Stacks_and_Queues\Stacks_and_Queues\obj\Debug\netcoreapp3.1\Stacks_and_Queues.genruntimeconfig.cache

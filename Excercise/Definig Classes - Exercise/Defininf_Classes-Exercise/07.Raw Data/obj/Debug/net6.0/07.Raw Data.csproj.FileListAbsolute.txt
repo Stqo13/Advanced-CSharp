@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\bin\Debug\net6.0\07.Raw Data.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\bin\Debug\net6.0\07.Raw Data.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\bin\Debug\net6.0\07.Raw Data.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\bin\Debug\net6.0\07.Raw Data.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\bin\Debug\net6.0\07.Raw Data.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\refint\07.Raw Data.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\07.Raw Data.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excersice\Definig Classes - Exercise\Defininf_Classes-Exercise\07.Raw Data\obj\Debug\net6.0\ref\07.Raw Data.dll

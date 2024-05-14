@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\refint\GenericBoxOfInteger.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxOfInteger\obj\Debug\net6.0\ref\GenericBoxOfInteger.dll

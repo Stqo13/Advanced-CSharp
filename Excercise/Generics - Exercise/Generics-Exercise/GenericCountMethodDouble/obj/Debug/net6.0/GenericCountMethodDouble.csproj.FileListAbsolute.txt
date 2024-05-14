@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\refint\GenericCountMethodDouble.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodDouble\obj\Debug\net6.0\ref\GenericCountMethodDouble.dll

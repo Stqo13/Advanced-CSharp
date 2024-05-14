@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\bin\Debug\netcoreapp3.1\Functional_Programming-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Lab\Functional Programming - Lab\Functional_Programming-Lab\Functional_Programming-Lab\obj\Debug\netcoreapp3.1\Functional_Programming-Lab.genruntimeconfig.cache

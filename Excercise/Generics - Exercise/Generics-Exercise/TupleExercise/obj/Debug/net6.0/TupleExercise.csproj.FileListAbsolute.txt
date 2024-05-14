@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\bin\Debug\net6.0\TupleExercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\bin\Debug\net6.0\TupleExercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\bin\Debug\net6.0\TupleExercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\bin\Debug\net6.0\TupleExercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\bin\Debug\net6.0\TupleExercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\refint\TupleExercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\TupleExercise.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\TupleExercise\obj\Debug\net6.0\ref\TupleExercise.dll

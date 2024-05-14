@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\refint\GenericBoxofString.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericBoxofString\obj\Debug\net6.0\ref\GenericBoxofString.dll

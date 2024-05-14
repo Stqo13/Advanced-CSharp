@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll

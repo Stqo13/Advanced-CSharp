@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\bin\Debug\net6.0\CustomThreeuple.exe
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\bin\Debug\net6.0\CustomThreeuple.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\bin\Debug\net6.0\CustomThreeuple.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\bin\Debug\net6.0\CustomThreeuple.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\bin\Debug\net6.0\CustomThreeuple.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\refint\CustomThreeuple.dll
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\CustomThreeuple.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Advanced C#\Excercise\Generics - Exercise\Generics-Exercise\CustomThreeuple\obj\Debug\net6.0\ref\CustomThreeuple.dll
